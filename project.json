@@ -1,0 +1,58 @@
+{
+  "name": "BlankProcess44",
+  "projectId": "74d2d204-70ee-433b-8f75-e5b4c4d543d7",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[26.8.2]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.1",
+  "studioVersion": "26.0.204.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "NewtonsoftJson",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "ec4f1ba6-d17a-4695-a08a-c7a9c8b2560e",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows",
+  "dotNetVersion": "net10.0"
+}
